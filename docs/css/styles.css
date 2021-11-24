@@ -1,5 +1,9 @@
-body {
-	margin-right: 200px;
-	margin-left: 200px;
-	margin-top: 50px;
+#outer {
+	margin: 50px;
+}
+
+#inner {
+	margin-left: 20%;
+    margin-right: 20%;
+
 }
